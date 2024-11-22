@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1606157220 source:/home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Utilities/Menu.cpp
+	"Menu.hpp"
+
+1606156997 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Utilities/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<limits>
+	<map>
+	<functional>
+
+1606158088 source:/home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/main.cpp
+	<iostream>
+	"Utilities/Menu.hpp"
+	"Programs/VectorProgram.hpp"
+	"Programs/ListProgram.hpp"
+	"Programs/MapProgram.hpp"
+	"Programs/QueueProgram.hpp"
+	"Programs/StackProgram.hpp"
+
+1606158236 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Programs/VectorProgram.hpp
+	"ProgramBase.hpp"
+	<vector>
+	<iostream>
+
+1606157838 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Programs/ProgramBase.hpp
+
+1606158230 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Programs/ListProgram.hpp
+	"ProgramBase.hpp"
+	<list>
+	<iostream>
+
+1606158226 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Programs/MapProgram.hpp
+	"ProgramBase.hpp"
+	<map>
+	<iostream>
+
+1606158220 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Programs/QueueProgram.hpp
+	"ProgramBase.hpp"
+	<queue>
+	<iostream>
+
+1606158216 /home/wilsha/RACHEL/_ADULTING/TEACHING/2020-08_FALL/PRIVATE/cs-235-object-oriented-programming-using-cpp/2020/Lab/STL/STLLab/Programs/StackProgram.hpp
+	"ProgramBase.hpp"
+	<stack>
+	<iostream>
+
